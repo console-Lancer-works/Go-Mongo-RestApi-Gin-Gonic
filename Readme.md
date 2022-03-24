@@ -1,5 +1,8 @@
-# Go-MongoDb RestApi with Jwt Authentication  with Gin-gonic
+# Go-MongoDb RestApi with Jwt Authentication  with Gin-gonic 🚀
 
+## Features
+1.covered Jwt Authentication
+2.Proper Code base structure maintained
 ## Following commands
 
 ```
